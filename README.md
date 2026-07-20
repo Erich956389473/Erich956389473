@@ -23,7 +23,7 @@
 
 ### 🔧 当前关注
 
-- 探索 AI Agent 在开发工具中的应用（如 [Agent Inventory](https://github.com/Erich956389473/agent-inventory)）
+- 探索 AI Agent 在开发工具中的应用（如 [Agent Inventory](https://github.com/Erich956389473/agent-inventory)、[Agent Card Editor](https://github.com/Erich956389473/agent-card-editor)）
 - 学习和实践 Vibe Coding 工作流
 - 寻找产品经理的新机会
 
@@ -66,6 +66,15 @@
 
 **技术栈:** JavaScript, Node.js, Web Dashboard  
 **特点:** CLI工具 + Web仪表盘，支持中英文双语
+
+### Agent Card Editor
+> 可视化设计符合 A2A 规范的 Agent Card，实时预览 JSON
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/agent-card-editor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+**技术栈:** HTML (单文件应用)  
+**特点:** 表单编辑器、实时预览、校验、导入导出、中英文双语
 
 ---
 
