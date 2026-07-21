@@ -23,7 +23,7 @@
 
 ### 🔧 当前关注
 
-- 构建 Agent 生态工具链（[Skill Compass](https://github.com/Erich956389473/skill-compass)、[FE Inspector](https://github.com/Erich956389473/fe-inspector-mcp)、[PM 自适应技能包](https://github.com/Erich956389473/pm-adaptive-skills)）
+- 构建 Agent 生态工具链（[Skill Compass](https://github.com/Erich956389473/skill-compass)、[FE Inspector](https://github.com/Erich956389473/fe-inspector-mcp)、[PM 自适应技能包](https://github.com/Erich956389473/pm-adaptive-skills)、[Fable Method for PMs](https://github.com/Erich956389473/fable-method-pm)）
 - 探索 AI Agent 在开发工具中的应用（如 [Agent Inventory](https://github.com/Erich956389473/agent-inventory)、[Agent Card Editor](https://github.com/Erich956389473/agent-card-editor)）
 - 学习和实践 Vibe Coding 工作流
 - 寻找产品经理 / 数据产品的新机会
@@ -59,6 +59,17 @@
 
 ## 📂 项目展示
 
+### 🗂 项目分类导航
+
+| 类别 | 项目 |
+|------|------|
+| **MCP Server** | [FE Inspector MCP](https://github.com/Erich956389473/fe-inspector-mcp)、[Skill Compass](https://github.com/Erich956389473/skill-compass) |
+| **PM 技能包** | [PM 自适应技能包](https://github.com/Erich956389473/pm-adaptive-skills)、[Fable Method for PMs](https://github.com/Erich956389473/fable-method-pm) |
+| **Agent 工具链** | [Agent Bridge](https://github.com/Erich956389473/agent-bridge)、[Agent Card Editor](https://github.com/Erich956389473/agent-card-editor)、[Agent Validator](https://github.com/Erich956389473/agent-card-validator)、[Agent Heartbeat](https://github.com/Erich956389473/agent-heartbeat)、[Agent Toolkit](https://github.com/Erich956389473/agent-toolkit)、[Agent Inventory](https://github.com/Erich956389473/agent-inventory) |
+| **创意工具** | [scroll-world planner](https://github.com/Erich956389473/scroll-world-planner) |
+
+---
+
 ### Skill Compass
 > 自动扫描你系统里的所有 Agent Skill，分析覆盖了什么、缺什么
 
@@ -84,6 +95,22 @@
 
 **技术栈:** Agent Skills, Markdown  
 **特点:** 竞品分析 / 数据分析 / 用户画像 / 优先级排序 / 路线图 全部自适应，中国 PM 场景优化
+
+### Fable Method for PMs
+> Think / Act / Prove — 像优秀 PM 一样决策，6 维自适应
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/fable-method-pm)
+
+**技术栈:** Agent Skills, Markdown  
+**特点:** 6 步分类决策树，对抗性验证，P0/P1/P2 假设优先级，复杂问题自动拆解
+
+### scroll-world planner
+> 沉浸式着陆页的 PM 规划器 — 品牌故事 → 场景设计 → 导演脚本
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/scroll-world-planner)
+
+**技术栈:** Agent Skill  
+**特点:** 品牌信息架构、场景序列设计、调性适配（4 种）、输出可直接交付开发的脚本
 
 ### Agent Inventory
 > 扫描、追踪并可视化你电脑上运行的 AI Agent
