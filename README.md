@@ -23,14 +23,15 @@
 
 ### 🔧 当前关注
 
+- 构建 Agent 生态工具链（[Skill Compass](https://github.com/Erich956389473/skill-compass)、[FE Inspector](https://github.com/Erich956389473/fe-inspector-mcp)、[PM 自适应技能包](https://github.com/Erich956389473/pm-adaptive-skills)）
 - 探索 AI Agent 在开发工具中的应用（如 [Agent Inventory](https://github.com/Erich956389473/agent-inventory)、[Agent Card Editor](https://github.com/Erich956389473/agent-card-editor)）
 - 学习和实践 Vibe Coding 工作流
-- 寻找产品经理的新机会
+- 寻找产品经理 / 数据产品的新机会
 
 ### 📫 联系方式
 
 - **GitHub:** [Erich956389473](https://github.com/Erich956389473)
-- **合作洽谈:** 请通过 GitHub 私信或 Issue 联系
+- **Email:** （请通过 GitHub 联系）
 
 ---
 
@@ -58,6 +59,32 @@
 
 ## 📂 项目展示
 
+### Skill Compass
+> 自动扫描你系统里的所有 Agent Skill，分析覆盖了什么、缺什么
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/skill-compass)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/skill-compass-mcp)
+
+**技术栈:** TypeScript, MCP Protocol  
+**特点:** 自动扫描 Agent 安装目录，12 维能力分析，场景匹配评估，缺口检测与推荐，中英双语
+
+### FE Inspector MCP
+> AI 生成前端页面的四维质检工具 — 检查审美、可访问性、响应式和交互逻辑
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/fe-inspector-mcp)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/fe-inspector-mcp)
+
+**技术栈:** TypeScript, MCP Protocol, Cheerio  
+**特点:** 20 条检测规则覆盖 4 维度，前置审查模式，hallmark 对比 16:2
+
+### PM 自适应技能包
+> 根据行业 / 阶段 / 规模自动调整分析框架，替代固定模板
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/pm-adaptive-skills)
+
+**技术栈:** Agent Skills, Markdown  
+**特点:** 竞品分析 / 数据分析 / 用户画像 / 优先级排序 / 路线图 全部自适应，中国 PM 场景优化
+
 ### Agent Inventory
 > 扫描、追踪并可视化你电脑上运行的 AI Agent
 
@@ -67,48 +94,35 @@
 **技术栈:** JavaScript, Node.js, Web Dashboard  
 **特点:** CLI工具 + Web仪表盘，支持中英文双语
 
-### Agent Card Editor
-> 可视化设计符合 A2A 规范的 Agent Card，实时预览 JSON
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/agent-card-editor)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-**技术栈:** HTML (单文件应用)  
-**特点:** 表单编辑器、实时预览、校验、导入导出、中英文双语
-
 ---
 
 ## 💼 工作经历
 
 ### 产品经理
-**[公司类型]** | [行业领域] | [工作年限]
+**[公司名称]** | [时间范围]
 
-- 负责多个产品从0到1的完整生命周期管理
-- 主导用户研究，建立数据驱动的产品决策体系
-- 与工程、设计团队紧密协作，推动产品快速迭代
-- 专注于通过技术手段提升产品用户体验
+- 负责[产品名称]的产品规划和设计
+- 主导用户研究，提升用户体验满意度[X]%
+- 与工程团队紧密合作，推动产品从0到1落地
 
-### 技术相关经历
-**技术驱动型公司** | [相关领域] | [工作年限]
+### [其他相关经历]
+**[公司名称]** | [时间范围]
 
-- 参与前端开发与技术方案设计
-- 深入理解技术实现细节，提升产品与技术的沟通效率
-- 探索AI工具在产品开发中的应用
+- [职责描述]
+- [成就量化]
 
 ---
 
 ## 🎓 教育背景
 
-**[学校类型]** | [专业方向] | [学位类型]
-
-- 扎实的专业基础知识
-- 持续学习新技术和产品方法论
+**[学校名称]** | [专业] | [学位] | [毕业时间]
 
 ---
 
 ## 📊 GitHub 统计
 
-![Erich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erich956389473&show_icons=true&theme=radical)
+<!-- 考虑添加 GitHub 统计卡片 -->
+<!-- ![Erich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erich956389473&show_icons=true&theme=radical) -->
 
 ---
 
@@ -117,11 +131,13 @@
 如果你正在寻找有热情、有想法的产品经理，或者对 Vibe Coding 感兴趣，欢迎联系我！
 
 - **GitHub:** [Erich956389473](https://github.com/Erich956389473)
-- **合作洽谈:** 请通过 GitHub 私信或 Issue 联系
+- **Email:** （请通过 GitHub 联系）
 
 ---
 
 ## 📝 最近文章/思考
+
+<!-- 可以在这里添加博客文章、技术思考等 -->
 
 ### Vibe Coding 是什么？
 Vibe Coding 是一种利用 AI 辅助编程工具快速将想法转化为代码的工作方式。作为产品经理，我可以通过这种方式快速验证产品想法，而不需要等待开发团队排期。
@@ -134,4 +150,4 @@ Vibe Coding 是一种利用 AI 辅助编程工具快速将想法转化为代码�
 
 ---
 
-*最后更新: 2026年7月20日*
+*最后更新: 2026年7月21日*
