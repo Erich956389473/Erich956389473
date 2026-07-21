@@ -126,30 +126,18 @@
 ## 💼 工作经历
 
 ### 产品经理
-**[公司名称]** | [时间范围]
+**科技行业** | 多年经验
 
-- 负责[产品名称]的产品规划和设计
-- 主导用户研究，提升用户体验满意度[X]%
-- 与工程团队紧密合作，推动产品从0到1落地
-
-### [其他相关经历]
-**[公司名称]** | [时间范围]
-
-- [职责描述]
-- [成就量化]
-
----
-
-## 🎓 教育背景
-
-**[学校名称]** | [专业] | [学位] | [毕业时间]
+- 负责多款产品从 0 到 1 的完整生命周期管理
+- 主导用户研究与数据驱动决策，推动产品持续迭代
+- 与工程、设计团队紧密协作，建立高效产品开发流程
+- 探索 AI 工具在产品开发中的应用，实践 Vibe Coding 工作流
 
 ---
 
 ## 📊 GitHub 统计
 
-<!-- 考虑添加 GitHub 统计卡片 -->
-<!-- ![Erich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erich956389473&show_icons=true&theme=radical) -->
+![Erich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erich956389473&show_icons=true&theme=radical)
 
 ---
 
