@@ -1,136 +1,168 @@
-# Erich Lee | 浜у搧缁忕悊 & Vibe Coder
+# Erich Lee | 产品经理 & Vibe Coder
 
-> 馃敪 鍦ㄥ鎵炬柊宸ヤ綔鐨勪骇鍝佺粡鐞嗭紝鐑》浜庨€氳繃 Vibe Coding 灏嗘兂娉曡浆鍖栦负鐜板疄
+> 🔭 在寻找新工作的产品经理，热衷于通过 Vibe Coding 将想法转化为现实
 
 ---
 
-## 馃憢 鍏充簬鎴?
-**Erich Lee** 鈥?浜у搧缁忕悊 / Vibe Coder
+## 👋 关于我
 
-鎴戞槸涓€鍚嶆嫢鏈変赴瀵屼骇鍝佽璁＄粡楠岀殑浜у搧缁忕悊锛屾鍦ㄧН鏋佸鎵炬柊鐨勮亴涓氭満浼氥€傛垜鐩镐俊濂界殑浜у搧婧愪簬瀵圭敤鎴烽渶姹傜殑娣卞埢鐞嗚В鍜屽鎶€鏈彲鑳芥€х殑鏁忛攼娲炲療銆?
-### 馃幆 鏍稿績鐞嗗康
+**Erich Lee** — 产品经理 / Vibe Coder
 
-**Vibe Coding** 鏄垜灏嗕骇鍝佹兂娉曞揩閫熻惤鍦扮殑鏂瑰紡銆傞€氳繃 AI 杈呭姪缂栫▼宸ュ叿锛堝 Claude Code銆丆ursor銆丆opilot锛夛紝鎴戣兘蹇€熷師鍨嬮獙璇侊紝灏嗘ā绯婄殑鎯虫硶杞寲涓哄彲浜や簰鐨勪骇鍝佸師鍨嬨€?
-### 馃挕 涓撻暱棰嗗煙
+我是一名拥有丰富产品设计经验的产品经理，正在积极寻找新的职业机会。我相信好的产品源于对用户需求的深刻理解和对技术可能性的敏锐洞察。
 
-- **浜у搧璁捐涓庤鍒?* 鈥?鐢ㄦ埛鐮旂┒銆侀渶姹傚垎鏋愩€佷骇鍝佽矾绾垮浘鍒跺畾
-- **Vibe Coding** 鈥?蹇€熷師鍨嬪紑鍙戙€佹妧鏈彲琛屾€ч獙璇?- **鏁版嵁鍒嗘瀽** 鈥?鏁版嵁椹卞姩鍐崇瓥銆佺敤鎴疯涓哄垎鏋?- **AI 宸ュ叿搴旂敤** 鈥?鎺㈢储 AI 鍦ㄤ骇鍝佸紑鍙戜腑鐨勬渶浣冲疄璺?
-### 馃敡 褰撳墠鍏虫敞
+### 🎯 核心理念
 
-- 鏋勫缓 Agent 鐢熸€佸伐鍏烽摼锛圼Skill Compass](https://github.com/Erich956389473/skill-compass)銆乕FE Inspector](https://github.com/Erich956389473/fe-inspector-mcp)銆乕PM 鑷€傚簲鎶€鑳藉寘](https://github.com/Erich956389473/pm-adaptive-skills)銆乕Fable Method for PMs](https://github.com/Erich956389473/fable-method-pm)锛?- 鎺㈢储 AI Agent 鍦ㄥ紑鍙戝伐鍏蜂腑鐨勫簲鐢紙濡?[Agent Inventory](https://github.com/Erich956389473/agent-inventory)銆乕Agent Card Editor](https://github.com/Erich956389473/agent-card-editor)锛?- 瀛︿範鍜屽疄璺?Vibe Coding 宸ヤ綔娴?- 瀵绘壘浜у搧缁忕悊 / 鏁版嵁浜у搧鐨勬柊鏈轰細
+**Vibe Coding** 是我将产品想法快速落地的方式。通过 AI 辅助编程工具（如 Claude Code、Cursor、Copilot），我能快速原型验证，将模糊的想法转化为可交互的产品原型。
 
-### 馃摣 鑱旂郴鏂瑰紡
+### 💡 专长领域
+
+- **产品设计与规划** — 用户研究、需求分析、产品路线图制定
+- **Vibe Coding** — 快速原型开发、技术可行性验证
+- **数据分析** — 数据驱动决策、用户行为分析
+- **AI 工具应用** — 探索 AI 在产品开发中的最佳实践
+
+### 🔧 当前关注
+
+- 构建 Agent 生态工具链（[Skill Compass](https://github.com/Erich956389473/skill-compass)、[FE Inspector](https://github.com/Erich956389473/fe-inspector-mcp)、[PM 自适应技能包](https://github.com/Erich956389473/pm-adaptive-skills)、[Fable Method for PMs](https://github.com/Erich956389473/fable-method-pm)）
+- 探索 AI Agent 在开发工具中的应用（如 [Agent Inventory](https://github.com/Erich956389473/agent-inventory)、[Agent Card Editor](https://github.com/Erich956389473/agent-card-editor)）
+- 学习和实践 Vibe Coding 工作流
+- 寻找产品经理 / 数据产品的新机会
+
+### 📫 联系方式
 
 - **GitHub:** [Erich956389473](https://github.com/Erich956389473)
-- **Email:** 锛堣閫氳繃 GitHub 鑱旂郴锛?
----
-
-## 馃洜锔?鎶€鑳芥爤
-
-### 浜у搧璁捐
-- 鐢ㄦ埛鐮旂┒涓庨渶姹傚垎鏋?- 浜у搧鍘熷瀷璁捐锛團igma銆丼ketch锛?- 浜у搧璺嚎鍥惧埗瀹?- 鏁版嵁椹卞姩鍐崇瓥
-
-### 鎶€鏈兘鍔?- **Vibe Coding:** 鍒╃敤 AI 杈呭姪宸ュ叿蹇€熷紑鍙戝師鍨?- **鍓嶇鎶€鏈?** HTML/CSS/JavaScript, React, Vue.js
-- **鏁版嵁鍒嗘瀽:** Python, SQL, 鏁版嵁鍙鍖?- **AI 宸ュ叿:** Claude Code, Cursor, GitHub Copilot
-
-### 宸ュ叿閾?- **璁捐:** Figma, Adobe XD
-- **寮€鍙?** VS Code, IntelliJ IDEA
-- **鍗忎綔:** GitHub, Jira, Confluence
-- **鏁版嵁鍒嗘瀽:** Tableau, Power BI
+- **Email:** （请通过 GitHub 联系）
 
 ---
 
-## 馃搨 椤圭洰灞曠ず
+## 🛠️ 技能栈
 
-### 馃梻 椤圭洰鍒嗙被瀵艰埅
+### 产品设计
+- 用户研究与需求分析
+- 产品原型设计（Figma、Sketch）
+- 产品路线图制定
+- 数据驱动决策
 
-| 绫诲埆 | 椤圭洰 |
+### 技术能力
+- **Vibe Coding:** 利用 AI 辅助工具快速开发原型
+- **前端技术:** HTML/CSS/JavaScript, React, Vue.js
+- **数据分析:** Python, SQL, 数据可视化
+- **AI 工具:** Claude Code, Cursor, GitHub Copilot
+
+### 工具链
+- **设计:** Figma, Adobe XD
+- **开发:** VS Code, IntelliJ IDEA
+- **协作:** GitHub, Jira, Confluence
+- **数据分析:** Tableau, Power BI
+
+---
+
+## 📂 项目展示
+
+### 🗂 项目分类导航
+
+| 类别 | 项目 |
 |------|------|
-| **MCP Server** | [FE Inspector MCP](https://github.com/Erich956389473/fe-inspector-mcp)銆乕Skill Compass](https://github.com/Erich956389473/skill-compass) |
-| **PM 鎶€鑳藉寘** | [PM 鑷€傚簲鎶€鑳藉寘](https://github.com/Erich956389473/pm-adaptive-skills)銆乕Fable Method for PMs](https://github.com/Erich956389473/fable-method-pm) |
-| **Agent 宸ュ叿閾?* | [Agent Bridge](https://github.com/Erich956389473/agent-bridge)銆乕Agent Card Editor](https://github.com/Erich956389473/agent-card-editor)銆乕Agent Validator](https://github.com/Erich956389473/agent-card-validator)銆乕Agent Heartbeat](https://github.com/Erich956389473/agent-heartbeat)銆乕Agent Toolkit](https://github.com/Erich956389473/agent-toolkit)銆乕Agent Inventory](https://github.com/Erich956389473/agent-inventory) |
-| **鍒涙剰宸ュ叿** | [scroll-world planner](https://github.com/Erich956389473/scroll-world-planner) |
+| **MCP Server** | [FE Inspector MCP](https://github.com/Erich956389473/fe-inspector-mcp)、[Skill Compass](https://github.com/Erich956389473/skill-compass) |
+| **PM 技能包** | [PM 自适应技能包](https://github.com/Erich956389473/pm-adaptive-skills)、[Fable Method for PMs](https://github.com/Erich956389473/fable-method-pm) |
+| **Agent 工具链** | [Agent Bridge](https://github.com/Erich956389473/agent-bridge)、[Agent Card Editor](https://github.com/Erich956389473/agent-card-editor)、[Agent Validator](https://github.com/Erich956389473/agent-card-validator)、[Agent Heartbeat](https://github.com/Erich956389473/agent-heartbeat)、[Agent Toolkit](https://github.com/Erich956389473/agent-toolkit)、[Agent Inventory](https://github.com/Erich956389473/agent-inventory) |
+| **创意工具** | [scroll-world planner](https://github.com/Erich956389473/scroll-world-planner) |
 
 ---
 
 ### Skill Compass
-> 鑷姩鎵弿浣犵郴缁熼噷鐨勬墍鏈?Agent Skill锛屽垎鏋愯鐩栦簡浠€涔堛€佺己浠€涔?
+> 自动扫描你系统里的所有 Agent Skill，分析覆盖了什么、缺什么
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/skill-compass)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/skill-compass-mcp)
 
-**鎶€鏈爤:** TypeScript, MCP Protocol  
-**鐗圭偣:** 鑷姩鎵弿 Agent 瀹夎鐩綍锛?2 缁磋兘鍔涘垎鏋愶紝鍦烘櫙鍖归厤璇勪及锛岀己鍙ｆ娴嬩笌鎺ㄨ崘锛屼腑鑻卞弻璇?
+**技术栈:** TypeScript, MCP Protocol  
+**特点:** 自动扫描 Agent 安装目录，12 维能力分析，场景匹配评估，缺口检测与推荐，中英双语
+
 ### FE Inspector MCP
-> AI 鐢熸垚鍓嶇椤甸潰鐨勫洓缁磋川妫€宸ュ叿 鈥?妫€鏌ュ缇庛€佸彲璁块棶鎬с€佸搷搴斿紡鍜屼氦浜掗€昏緫
+> AI 生成前端页面的四维质检工具 — 检查审美、可访问性、响应式和交互逻辑
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/fe-inspector-mcp)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/fe-inspector-mcp)
 
-**鎶€鏈爤:** TypeScript, MCP Protocol, Cheerio  
-**鐗圭偣:** 20 鏉℃娴嬭鍒欒鐩?4 缁村害锛屽墠缃鏌ユā寮忥紝hallmark 瀵规瘮 16:2
+**技术栈:** TypeScript, MCP Protocol, Cheerio  
+**特点:** 20 条检测规则覆盖 4 维度，前置审查模式，hallmark 对比 16:2
 
-### PM 鑷€傚簲鎶€鑳藉寘
-> 鏍规嵁琛屼笟 / 闃舵 / 瑙勬ā鑷姩璋冩暣鍒嗘瀽妗嗘灦锛屾浛浠ｅ浐瀹氭ā鏉?
+### PM 自适应技能包
+> 根据行业 / 阶段 / 规模自动调整分析框架，替代固定模板
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/pm-adaptive-skills)
 
-**鎶€鏈爤:** Agent Skills, Markdown  
-**鐗圭偣:** 绔炲搧鍒嗘瀽 / 鏁版嵁鍒嗘瀽 / 鐢ㄦ埛鐢诲儚 / 浼樺厛绾ф帓搴?/ 璺嚎鍥?鍏ㄩ儴鑷€傚簲锛屼腑鍥?PM 鍦烘櫙浼樺寲
+**技术栈:** Agent Skills, Markdown  
+**特点:** 竞品分析 / 数据分析 / 用户画像 / 优先级排序 / 路线图 全部自适应，中国 PM 场景优化
 
 ### Fable Method for PMs
-> Think / Act / Prove 鈥?鍍忎紭绉€ PM 涓€鏍峰喅绛栵紝6 缁磋嚜閫傚簲
+> Think / Act / Prove — 像优秀 PM 一样决策，6 维自适应
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/fable-method-pm)
 
-**鎶€鏈爤:** Agent Skills, Markdown  
-**鐗圭偣:** 6 姝ュ垎绫诲喅绛栨爲锛屽鎶楁€ч獙璇侊紝P0/P1/P2 鍋囪浼樺厛绾э紝澶嶆潅闂鑷姩鎷嗚В
+**技术栈:** Agent Skills, Markdown  
+**特点:** 6 步分类决策树，对抗性验证，P0/P1/P2 假设优先级，复杂问题自动拆解
 
 ### scroll-world planner
-> 娌夋蹈寮忕潃闄嗛〉鐨?PM 瑙勫垝鍣?鈥?鍝佺墝鏁呬簨 鈫?鍦烘櫙璁捐 鈫?瀵兼紨鑴氭湰
+> 沉浸式着陆页的 PM 规划器 — 品牌故事 → 场景设计 → 导演脚本
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/scroll-world-planner)
 
-**鎶€鏈爤:** Agent Skill  
-**鐗圭偣:** 鍝佺墝淇℃伅鏋舵瀯銆佸満鏅簭鍒楄璁°€佽皟鎬ч€傞厤锛? 绉嶏級銆佽緭鍑哄彲鐩存帴浜や粯寮€鍙戠殑鑴氭湰
+**技术栈:** Agent Skill  
+**特点:** 品牌信息架构、场景序列设计、调性适配（4 种）、输出可直接交付开发的脚本
 
 ### Agent Inventory
-> 鎵弿銆佽拷韪苟鍙鍖栦綘鐢佃剳涓婅繍琛岀殑 AI Agent
+> 扫描、追踪并可视化你电脑上运行的 AI Agent
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/agent-inventory)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agent-inventory)
 
-**鎶€鏈爤:** JavaScript, Node.js, Web Dashboard  
-**鐗圭偣:** CLI 宸ュ叿 + Web 浠〃鐩橈紝鏀寔涓嫳鏂囧弻璇?
+**技术栈:** JavaScript, Node.js, Web Dashboard  
+**特点:** CLI 工具 + Web 仪表盘，支持中英文双语
+
 ---
 
-## 馃捈 宸ヤ綔缁忓巻
+## 💼 工作经历
 
-### 浜у搧缁忕悊
-**绉戞妧琛屼笟** | 澶氬勾缁忛獙
+### 产品经理
+**科技行业** | 多年经验
 
-- 璐熻矗澶氭浜у搧浠?0 鍒?1 鐨勫畬鏁寸敓鍛藉懆鏈熺鐞?- 涓诲鐢ㄦ埛鐮旂┒涓庢暟鎹┍鍔ㄥ喅绛栵紝鎺ㄥ姩浜у搧鎸佺画杩唬
-- 涓庡伐绋嬨€佽璁″洟闃熺揣瀵嗗崗浣滐紝寤虹珛楂樻晥浜у搧寮€鍙戞祦绋?- 鎺㈢储 AI 宸ュ叿鍦ㄤ骇鍝佸紑鍙戜腑鐨勫簲鐢紝瀹炶返 Vibe Coding 宸ヤ綔娴?
+- 负责多款产品从 0 到 1 的完整生命周期管理
+- 主导用户研究与数据驱动决策，推动产品持续迭代
+- 与工程、设计团队紧密协作，建立高效产品开发流程
+- 探索 AI 工具在产品开发中的应用，实践 Vibe Coding 工作流
+
 ---
 
-## 馃搳 GitHub 缁熻
+## 📊 GitHub 统计
 
 ![Erich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erich956389473&show_icons=true&theme=radical)
 
 ---
 
-## 馃 鑱旂郴鎴?
-濡傛灉浣犳鍦ㄥ鎵炬湁鐑儏銆佹湁鎯虫硶鐨勪骇鍝佺粡鐞嗭紝鎴栬€呭 Vibe Coding 鎰熷叴瓒ｏ紝娆㈣繋鑱旂郴鎴戯紒
+## 🤝 联系我
+
+如果你正在寻找有热情、有想法的产品经理，或者对 Vibe Coding 感兴趣，欢迎联系我！
 
 - **GitHub:** [Erich956389473](https://github.com/Erich956389473)
-- **Email:** 锛堣閫氳繃 GitHub 鑱旂郴锛?
+- **Email:** （请通过 GitHub 联系）
+
 ---
 
-## 馃摑 鏈€杩戞枃绔?鎬濊€?
-<!-- 鍙互鍦ㄨ繖閲屾坊鍔犲崥瀹㈡枃绔犮€佹妧鏈€濊€冪瓑 -->
+## 📝 最近文章/思考
 
-### Vibe Coding 鏄粈涔堬紵
-Vibe Coding 鏄竴绉嶅埄鐢?AI 杈呭姪缂栫▼宸ュ叿蹇€熷皢鎯虫硶杞寲涓轰唬鐮佺殑宸ヤ綔鏂瑰紡銆備綔涓轰骇鍝佺粡鐞嗭紝鎴戝彲浠ラ€氳繃杩欑鏂瑰紡蹇€熼獙璇佷骇鍝佹兂娉曪紝鑰屼笉闇€瑕佺瓑寰呭紑鍙戝洟闃熸帓鏈熴€?
-### 涓轰粈涔堥€夋嫨 Vibe Coding锛?1. **蹇€熼獙璇?** 鍑犲皬鏃跺唴灏辫兘鐪嬪埌浜у搧鍘熷瀷
-2. **闄嶄綆娌熼€氭垚鏈?** 鐩存帴瀹炵幇鑷繁鐨勬兂娉?3. **鎶€鏈彲琛屾€ч獙璇?** 鍦ㄦ姇鍏ュ紑鍙戣祫婧愬墠鍏堥獙璇佹妧鏈柟妗?4. **淇濇寔浜у搧鏁忔劅搴?** 浜叉墜瀹炵幇鑳芥洿濂藉湴鐞嗚В鎶€鏈檺鍒跺拰鍙兘鎬?
+<!-- 可以在这里添加博客文章、技术思考等 -->
+
+### Vibe Coding 是什么？
+Vibe Coding 是一种利用 AI 辅助编程工具快速将想法转化为代码的工作方式。作为产品经理，我可以通过这种方式快速验证产品想法，而不需要等待开发团队排期。
+
+### 为什么选择 Vibe Coding？
+1. **快速验证:** 几小时内就能看到产品原型
+2. **降低沟通成本:** 直接实现自己的想法
+3. **技术可行性验证:** 在投入开发资源前先验证技术方案
+4. **保持产品敏感度:** 亲手实现能更好地理解技术限制和可能性
+
 ---
 
-*鏈€鍚庢洿鏂? 2026骞?鏈?2鏃?
+*最后更新: 2026年7月22日*
